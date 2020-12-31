@@ -2,17 +2,17 @@
   "format_version" : 2,
   "header" : {
     "version" : [ 1, 1, 5 ],
-		"description" : "\u00A72Dark and Handsome \n\u00A76By Dokucraft TSC",
-        "name" : "Dokucraft Dark",
-		"uuid" : "0bef94eb-a106-4e07-a825-a57bd2168612",
-        "min_engine_version": [1, 16, 0]
-    },
-    "modules": [
-        {
+    "description" : "\u00A72Dark and Handsome \n\u00A76By Dokucraft TSC",
+    "name" : "Dokucraft Dark",
+    "uuid" : "0bef94eb-a106-4e07-a825-a57bd2168612",
+    "min_engine_version": [1, 16, 0]
+  },
+  "modules": [
+    {
 			"version" : [ 1, 1, 5 ],
 			"description" : "\u00A72Dark and Handsome \n\u00A76By Dokucraft TSC",
-            "type" : "resources",
-            "uuid" : "bfc737e0-c31b-4180-8a22-71a45c77fd8b"
-        }
-    ]
+      "type" : "resources",
+      "uuid" : "bfc737e0-c31b-4180-8a22-71a45c77fd8b"
+    }
+  ]
 }
