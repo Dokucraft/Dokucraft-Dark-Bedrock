@@ -4,7 +4,7 @@
     "version" : [ 1, 21, 20 ],
     "description" : "\u00A72Dark and Handsome\n\u00A76By Dokucraft TSC",
     "name" : "Dokucraft Dark",
-    "uuid" : "0bef94eb-a106-4e07-a825-a57bd2168612",
+    "uuid" : "f5e4e23a-f3ba-4d44-bccd-7ac116749e55",
     "min_engine_version": [ 1, 16, 0 ]
   },
   "modules": [
@@ -12,7 +12,7 @@
       "version" : [ 1, 21, 20 ],
       "description" : "\u00A72Dark and Handsome\n\u00A76By Dokucraft TSC",
       "type" : "resources",
-      "uuid" : "bfc737e0-c31b-4180-8a22-71a45c77fd8b"
+      "uuid" : "2c2b360a-f135-4c5a-938d-f966e024459a"
     }
   ]
 }
