@@ -1371,14 +1371,6 @@
 					{
 						"path": "textures/blocks/sand/7",
 						"weight": 1
-					},
-					{
-						"path": "textures/blocks/sand/8",
-						"weight": 1
-					},
-					{
-						"path": "textures/blocks/sand/9",
-						"weight": 1
 					}
 				]
 			}
