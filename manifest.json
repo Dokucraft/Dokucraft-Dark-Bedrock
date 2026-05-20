@@ -5,7 +5,7 @@
     "description" : "\u00A72Dark and Handsome\n\u00A76By Dokucraft TSC",
     "name" : "Dokucraft Dark",
     "uuid" : "f5e4e23a-f3ba-4d44-bccd-7ac116749e55",
-    "min_engine_version": [ 1, 16, 0 ]
+    "min_engine_version": [ 1, 26, 0 ]
   },
   "modules": [
     {
