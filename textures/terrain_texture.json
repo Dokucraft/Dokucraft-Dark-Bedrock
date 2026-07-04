@@ -123,67 +123,67 @@
 				"variations": [
 					{
 						"path": "textures/blocks/basalt/sides_0",
-						"weight": 1000
+						"weight": 7.69000
 					},
 					{
 						"path": "textures/blocks/basalt/sides_1",
-						"weight": 1001
+						"weight": 7.69001
 					},
 					{
 						"path": "textures/blocks/basalt/sides_2",
-						"weight": 1002
+						"weight": 7.69002
 					},
 					{
 						"path": "textures/blocks/basalt/sides_3",
-						"weight": 1003
+						"weight": 7.69003
 					},
 					{
 						"path": "textures/blocks/basalt/sides_4",
-						"weight": 1004
+						"weight": 7.69004
 					},
 					{
 						"path": "textures/blocks/basalt/sides_5",
-						"weight": 1005
+						"weight": 7.69005
 					},
 					{
 						"path": "textures/blocks/basalt/sides_6",
-						"weight": 1006
+						"weight": 7.69006
 					},
 					{
 						"path": "textures/blocks/basalt/sides_7",
-						"weight": 1007
+						"weight": 7.69007
 					},
 					{
 						"path": "textures/blocks/basalt/sides_8",
-						"weight": 1008
+						"weight": 7.69008
 					},
 					{
 						"path": "textures/blocks/basalt/sides_9",
-						"weight": 1009
+						"weight": 7.69009
 					},
 					{
 						"path": "textures/blocks/basalt/sides_a",
-						"weight": 1010
+						"weight": 7.69010
 					},
 					{
 						"path": "textures/blocks/basalt/sides_b",
-						"weight": 1011
+						"weight": 7.69011
 					},
 					{
 						"path": "textures/blocks/basalt/sides_c",
-						"weight": 1012
+						"weight": 7.69012
 					},
 					{
 						"path": "textures/blocks/basalt/sides_d",
-						"weight": 1013
+						"weight": 7.69013
 					},
 					{
 						"path": "textures/blocks/basalt/sides_e",
-						"weight": 1014
+						"weight": 7.69014
 					},
 					{
 						"path": "textures/blocks/basalt/sides_f",
-						"weight": 1015
+						"weight": 7.69015
 					}
 				]
 			}
@@ -193,11 +193,11 @@
 				"variations": [
 					{
 						"path": "textures/blocks/basalt/ends_0",
-						"weight": 1100
+						"weight": 7.69100
 					},
 					{
 						"path": "textures/blocks/basalt/ends_1",
-						"weight": 1101
+						"weight": 7.69101
 					}
 				]
 			}
@@ -1097,7 +1097,7 @@
 						},
 						{
 							"path": "textures/blocks/dirt/1",
-							"weight": 1
+							"weight": 7.69
 						},
 						{
 							"path": "textures/blocks/dirt/2",
@@ -1141,7 +1141,7 @@
 					},
 					{
 						"path": "textures/blocks/dirt/1",
-						"weight": 1
+						"weight": 7.69
 					},
 					{
 						"path": "textures/blocks/dirt/2",
@@ -1302,7 +1302,7 @@
 					},
 					{
 						"path": "textures/blocks/dirt/1",
-						"weight": 1
+						"weight": 7.69
 					},
 					{
 						"path": "textures/blocks/dirt/2",
@@ -1353,7 +1353,7 @@
 					},
 					{
 						"path": "textures/blocks/dirt/1",
-						"weight": 1
+						"weight": 7.69
 					},
 					{
 						"path": "textures/blocks/dirt/2",
@@ -1411,15 +1411,15 @@
 					},
 					{
 						"path": "textures/blocks/sand/5",
-						"weight": 10
+						"weight": 7.690
 					},
 					{
 						"path": "textures/blocks/sand/6",
-						"weight": 12
+						"weight": 7.692
 					},
 					{
 						"path": "textures/blocks/sand/7",
-						"weight": 1
+						"weight": 7.69
 					}
 				]
 			}
@@ -1532,7 +1532,7 @@
 						},
 						{
 							"path": "textures/blocks/dirt/1",
-							"weight": 1
+							"weight": 7.69
 						},
 						{
 							"path": "textures/blocks/dirt/2",
@@ -1572,7 +1572,7 @@
 						},
 						{
 							"path": "textures/blocks/dirt/1",
-							"weight": 1
+							"weight": 7.69
 						},
 						{
 							"path": "textures/blocks/dirt/2",
@@ -1612,7 +1612,7 @@
 						},
 						{
 							"path": "textures/blocks/dirt/1",
-							"weight": 1
+							"weight": 7.69
 						},
 						{
 							"path": "textures/blocks/dirt/2",
@@ -1652,7 +1652,7 @@
 						},
 						{
 							"path": "textures/blocks/dirt/1",
-							"weight": 1
+							"weight": 7.69
 						},
 						{
 							"path": "textures/blocks/dirt/2",
@@ -1692,7 +1692,7 @@
 						},
 						{
 							"path": "textures/blocks/dirt/1",
-							"weight": 1
+							"weight": 7.69
 						},
 						{
 							"path": "textures/blocks/dirt/2",
@@ -1732,7 +1732,7 @@
 						},
 						{
 							"path": "textures/blocks/dirt/1",
-							"weight": 1
+							"weight": 7.69
 						},
 						{
 							"path": "textures/blocks/dirt/2",
@@ -1772,7 +1772,7 @@
 						},
 						{
 							"path": "textures/blocks/dirt/1",
-							"weight": 1
+							"weight": 7.69
 						},
 						{
 							"path": "textures/blocks/dirt/2",
@@ -1812,7 +1812,7 @@
 						},
 						{
 							"path": "textures/blocks/dirt/1",
-							"weight": 1
+							"weight": 7.69
 						},
 						{
 							"path": "textures/blocks/dirt/2",
@@ -1852,7 +1852,7 @@
 						},
 						{
 							"path": "textures/blocks/dirt/1",
-							"weight": 1
+							"weight": 7.69
 						},
 						{
 							"path": "textures/blocks/dirt/2",
@@ -1892,7 +1892,7 @@
 						},
 						{
 							"path": "textures/blocks/dirt/1",
-							"weight": 1
+							"weight": 7.69
 						},
 						{
 							"path": "textures/blocks/dirt/2",
@@ -1932,7 +1932,7 @@
 						},
 						{
 							"path": "textures/blocks/dirt/1",
-							"weight": 1
+							"weight": 7.69
 						},
 						{
 							"path": "textures/blocks/dirt/2",
@@ -1972,7 +1972,7 @@
 						},
 						{
 							"path": "textures/blocks/dirt/1",
-							"weight": 1
+							"weight": 7.69
 						},
 						{
 							"path": "textures/blocks/dirt/2",
@@ -2012,7 +2012,7 @@
 						},
 						{
 							"path": "textures/blocks/dirt/1",
-							"weight": 1
+							"weight": 7.69
 						},
 						{
 							"path": "textures/blocks/dirt/2",
@@ -2052,7 +2052,7 @@
 						},
 						{
 							"path": "textures/blocks/dirt/1",
-							"weight": 1
+							"weight": 7.69
 						},
 						{
 							"path": "textures/blocks/dirt/2",
@@ -2092,7 +2092,7 @@
 						},
 						{
 							"path": "textures/blocks/dirt/1",
-							"weight": 1
+							"weight": 7.69
 						},
 						{
 							"path": "textures/blocks/dirt/2",
@@ -2132,7 +2132,7 @@
 						},
 						{
 							"path": "textures/blocks/dirt/1",
-							"weight": 1
+							"weight": 7.69
 						},
 						{
 							"path": "textures/blocks/dirt/2",
@@ -2172,7 +2172,7 @@
 						},
 						{
 							"path": "textures/blocks/dirt/1",
-							"weight": 1
+							"weight": 7.69
 						},
 						{
 							"path": "textures/blocks/dirt/2",
@@ -2221,7 +2221,7 @@
 					},
 					{
 						"path": "textures/blocks/dirt/1",
-						"weight": 1
+						"weight": 7.69
 					},
 					{
 						"path": "textures/blocks/dirt/2",
@@ -2262,7 +2262,7 @@
 				"variations": [
 					{
 						"path": "textures/blocks/path/0",
-						"weight": 1000
+						"weight": 7.69000
 					},
 					{
 						"path": "textures/blocks/path/1",
@@ -2270,7 +2270,7 @@
 					},
 					{
 						"path": "textures/blocks/path/2",
-						"weight": 10
+						"weight": 7.690
 					},
 					{
 						"path": "textures/blocks/path/3",
@@ -2278,7 +2278,7 @@
 					},
 					{
 						"path": "textures/blocks/path/4",
-						"weight": 10
+						"weight": 7.690
 					},
 					{
 						"path": "textures/blocks/path/5",
@@ -2402,15 +2402,15 @@
 					},
 					{
 						"path": "textures/blocks/gravel/1",
-						"weight": 1
+						"weight": 7.69
 					},
 					{
 						"path": "textures/blocks/gravel/2",
-						"weight": 1
+						"weight": 7.69
 					},
 					{
 						"path": "textures/blocks/gravel/3",
-						"weight": 1
+						"weight": 7.69
 					}
 				]
 			}
@@ -3849,35 +3849,35 @@
 				"variations": [
 					{
 						"path": "textures/blocks/polished_basalt/side_0",
-						"weight": 1000
+						"weight": 7.69000
 					},
 					{
 						"path": "textures/blocks/polished_basalt/side_1",
-						"weight": 1001
+						"weight": 7.69001
 					},
 					{
 						"path": "textures/blocks/polished_basalt/side_2",
-						"weight": 1002
+						"weight": 7.69002
 					},
 					{
 						"path": "textures/blocks/polished_basalt/side_3",
-						"weight": 1003
+						"weight": 7.69003
 					},
 					{
 						"path": "textures/blocks/polished_basalt/side_4",
-						"weight": 1004
+						"weight": 7.69004
 					},
 					{
 						"path": "textures/blocks/polished_basalt/side_5",
-						"weight": 1005
+						"weight": 7.69005
 					},
 					{
 						"path": "textures/blocks/polished_basalt/side_6",
-						"weight": 1006
+						"weight": 7.69006
 					},
 					{
 						"path": "textures/blocks/polished_basalt/side_7",
-						"weight": 1007
+						"weight": 7.69007
 					}
 				]
 			}
@@ -3891,63 +3891,63 @@
 					},
 					{
 						"path": "textures/blocks/polished_basalt/ends_1",
-						"weight": 1101
+						"weight": 7.69101
 					},
 					{
 						"path": "textures/blocks/polished_basalt/ends_2",
-						"weight": 1102
+						"weight": 7.69102
 					},
 					{
 						"path": "textures/blocks/polished_basalt/ends_3",
-						"weight": 1103
+						"weight": 7.69103
 					},
 					{
 						"path": "textures/blocks/polished_basalt/ends_4",
-						"weight": 1104
+						"weight": 7.69104
 					},
 					{
 						"path": "textures/blocks/polished_basalt/ends_5",
-						"weight": 1105
+						"weight": 7.69105
 					},
 					{
 						"path": "textures/blocks/polished_basalt/ends_6",
-						"weight": 1106
+						"weight": 7.69106
 					},
 					{
 						"path": "textures/blocks/polished_basalt/ends_7",
-						"weight": 1107
+						"weight": 7.69107
 					},
 					{
 						"path": "textures/blocks/polished_basalt/ends_8",
-						"weight": 1108
+						"weight": 7.69108
 					},
 					{
 						"path": "textures/blocks/polished_basalt/ends_9",
-						"weight": 1109
+						"weight": 7.69109
 					},
 					{
 						"path": "textures/blocks/polished_basalt/ends_a",
-						"weight": 1110
+						"weight": 7.69110
 					},
 					{
 						"path": "textures/blocks/polished_basalt/ends_b",
-						"weight": 1111
+						"weight": 7.69111
 					},
 					{
 						"path": "textures/blocks/polished_basalt/ends_c",
-						"weight": 1112
+						"weight": 7.69112
 					},
 					{
 						"path": "textures/blocks/polished_basalt/ends_d",
-						"weight": 1113
+						"weight": 7.69113
 					},
 					{
 						"path": "textures/blocks/polished_basalt/ends_e",
-						"weight": 1114
+						"weight": 7.69114
 					},
 					{
 						"path": "textures/blocks/polished_basalt/ends_f",
-						"weight": 1115
+						"weight": 7.69115
 					}
 				]
 			}
@@ -4258,15 +4258,15 @@
 						},
 						{
 							"path": "textures/blocks/sand/5",
-							"weight": 10
+							"weight": 7.690
 						},
 						{
 							"path": "textures/blocks/sand/6",
-							"weight": 12
+							"weight": 7.692
 						},
 						{
 							"path": "textures/blocks/sand/7",
-							"weight": 1
+							"weight": 7.69
 						}
 					]
 				},
@@ -4725,43 +4725,56 @@
 			"textures": {
 				"variations": [
 					{
-						"path": "textures/blocks/cobweb/0"
+						"path": "textures/blocks/cobweb/0",
+						"weight": 7.70
 					},
 					{
-						"path": "textures/blocks/cobweb/1"
+						"path": "textures/blocks/cobweb/1",
+						"weight": 7.69
 					},
 					{
-						"path": "textures/blocks/cobweb/2"
+						"path": "textures/blocks/cobweb/2",
+						"weight": 7.69
 					},
 					{
-						"path": "textures/blocks/cobweb/3"
+						"path": "textures/blocks/cobweb/3",
+						"weight": 7.69
 					},
 					{
-						"path": "textures/blocks/cobweb/4"
+						"path": "textures/blocks/cobweb/4",
+						"weight": 7.69
 					},
 					{
-						"path": "textures/blocks/cobweb/5"
+						"path": "textures/blocks/cobweb/5",
+						"weight": 7.69
 					},
 					{
-						"path": "textures/blocks/cobweb/6"
+						"path": "textures/blocks/cobweb/6",
+						"weight": 7.69
 					},
 					{
-						"path": "textures/blocks/cobweb/7"
+						"path": "textures/blocks/cobweb/7",
+						"weight": 7.69
 					},
 					{
-						"path": "textures/blocks/cobweb/8"
+						"path": "textures/blocks/cobweb/8",
+						"weight": 7.69
 					},
 					{
-						"path": "textures/blocks/cobweb/9"
+						"path": "textures/blocks/cobweb/9",
+						"weight": 7.69
 					},
 					{
-						"path": "textures/blocks/cobweb/10"
+						"path": "textures/blocks/cobweb/10",
+						"weight": 7.69
 					},
 					{
-						"path": "textures/blocks/cobweb/11"
+						"path": "textures/blocks/cobweb/11",
+						"weight": 7.69
 					},
 					{
-						"path": "textures/blocks/cobweb/12"
+						"path": "textures/blocks/cobweb/12",
+						"weight": 7.69
 					}
 				]
 			}
